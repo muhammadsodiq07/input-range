@@ -352,7 +352,7 @@ template {
 
 body {
   font-family: sans-serif;
-  background-color: #fff;
+  background: linear-gradient(110deg, #09203f 60%, #537895 60%);
   min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
